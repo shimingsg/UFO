@@ -1,7 +1,7 @@
 art==6.1
 colorama==0.4.6
-langchain==0.1.11
-langchain_community==0.0.27
+langchain==0.3.24
+langchain_community==0.3.22
 msal==1.25.0
 openai==1.66.2
 Pillow==10.3.0
@@ -13,7 +13,7 @@ faiss-cpu==1.8.0
 lxml==5.1.0
 psutil==5.9.8
 beautifulsoup4==4.12.3
-sentence-transformers==2.5.1
+sentence-transformers==4.1.0
 langchain-huggingface==0.1.2
 pandas==1.4.3
 html2text==2024.2.26
@@ -29,5 +29,5 @@ gradio-client==1.7.1
 
 
 ## If use AAD to authenticate
-azure_identity==1.15.0
-azure-identity-broker==0.1.0
+# azure_identity==1.15.0
+# azure-identity-broker==0.1.0
